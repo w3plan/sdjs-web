@@ -24,7 +24,7 @@ Downloads sdjs-web from [sdjs-web repository](https://github.com/w3plan/sdjs-web
 
 ## Usage
 
-Adding &lt;script src="https://cdn.jsdelivr.net/gh/w3plan/sdjs-web@master/sdjs.js"&gt;&lt;/script&gt; or &lt;script src="/directory-to-sdjs/sdjs.js"&gt;&lt;/script&gt; to web pages then doing data validation:
+Adding &lt;script src="https://cdn.jsdelivr.net/gh/w3plan/sdjs-web@master/sdjs.js"></script&gt; or &lt;script src="/directory-to-sdjs/sdjs.js"&gt;&lt;/script&gt; to web pages then doing data validation:
 
 ```javascript
   // supposing that sdjsObj is a JSON object with Self Description JSON Schema
