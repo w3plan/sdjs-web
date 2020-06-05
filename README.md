@@ -29,11 +29,10 @@ Adding &lt;script src="https://cdn.jsdelivr.net/gh/w3plan/sdjs-web@master/sdjs.j
 ```javascript
   // supposing that sdjsObj is a JSON object with Self Description JSON Schema
   if ( sdjs.valiSdjs(sdjsObj) ) {
-    console.log("validation failed");
+    console.log("validation succeeded.");
   } else {
-    console.log("validation succeeded");
+    console.log("validation failed.");
   }  
-  
 ```
 
 
